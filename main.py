@@ -1,6 +1,6 @@
 import os
 
-LINE = "After eleven years crying at strangers' funerals, I resign. My enthusiasm died last Tuesday, and nobody was hired to mourn it."
+LINE = "After 11 years of weeping at strangers' funerals, I resign: my own motivation died on Tuesday, and no one was paid to mourn it."
 
 
 def main():
